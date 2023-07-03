@@ -363,12 +363,7 @@ a.uk-link-heading:hover {
 }
 
 .bc-primary-section {
-  position: relative;
-  background-image: url('../img/theme/background-1.jpg');
-  background-position: top center;
-  background-repeat: no-repeat;
-  box-shadow: 0 -2px 4px rgba(10, 19, 43, .5);
-  border-top: 1px solid rgba(255, 255, 255, .1);
+
 }
 
 .bc-slider-section {
