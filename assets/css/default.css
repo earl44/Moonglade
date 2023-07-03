@@ -356,10 +356,10 @@ a.uk-link-heading:hover {
 }
 
 .bc-default-section {
-  position: relative;
   background-image: url('../img/theme/background.jpg');
   background-repeat: no-repeat;
   background-position: top center;
+  background-size: cover;
 }
 
 .bc-primary-section {
@@ -704,7 +704,7 @@ a.uk-link-heading:hover {
 
 .uk-navbar-container:not(.uk-navbar-transparent) {
   position: relative;
-  background: #0e1b3e;
+  background: transparent;
   border-bottom: 1px solid #223155;
   box-shadow: 0 3px 6px rgba(10, 19, 43, .7);
   z-index: 1;
